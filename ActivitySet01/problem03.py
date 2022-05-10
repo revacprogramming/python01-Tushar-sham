@@ -1,3 +1,3 @@
 
-
-hrs = float(input("Enter hours? "))
+hrs = (input("Enter hours"))
+float = hrs
